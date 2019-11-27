@@ -31,7 +31,7 @@
 	{"id":29,"first_name":"Loralyn","last_name":"Kinahan","email":"lkinahans@noaa.gov","gender":"Female"},
 	{"id":30,"first_name":"Hewie","last_name":"Poplee","email":"hpopleet@usatoday.com","gender":"Male"}
   ],
-  "project": [
+  "projects": [
     {"id":1,"project_name":"tellus nisi eu","project_code":"238-14-6852","street1":"678 Rowland Circle","street2":"Samut Prakan","street4":"10270","phone":"574-936-5160","userid":13,"companyid":6},
 	{"id":2,"project_name":"duis aliquam convallis","project_code":"587-72-6051","street1":"01414 Starling Alley","street2":"Murovanoye","phone":"377-762-0458","userid":28,"companyid":12},
 	{"id":3,"project_name":"ante","project_code":"629-64-7992","street1":"080 Comanche Lane","street2":"Gunungsari","phone":"222-639-1041","userid":7,"companyid":4},
@@ -63,11 +63,68 @@
 	{"id":29,"project_name":"curae donec pharetra","project_code":"334-33-0849","street1":"751 Helena Street","street2":"Birzai","street4":"41062","phone":"646-791-5111","userid":8,"companyid":3},
 	{"id":30,"project_name":"pede justo lacinia","project_code":"523-86-6657","street1":"98860 Carey Park","street2":"Châlons-en-Champagne","street3":"Champagne-Ardenne","street4":"51012 CEDEX","phone":"764-839-5609","userid":25,"companyid":26}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "companies": [
+    {"id":1,"company_name":"Gibson, Smitham and Koelpin","company_identifier":"382-75-4691","street1":"8098 Fremont Avenue","street2":"Siewierz","street4":"42-470","phone":"418-433-7489","userid":10},
+	{"id":2,"company_name":"Heller, Moore and Wisoky","company_identifier":"669-57-4417","street1":"825 Burning Wood Place","street2":"Watuka","phone":"277-855-7089","userid":5},
+	{"id":3,"company_name":"Hagenes, Vandervort and Goodwin","company_identifier":"734-75-0726","street1":"91 Duke Lane","street2":"Quintão","street3":"Braga","street4":"4750-771","phone":"626-899-9868","userid":26},
+	{"id":4,"company_name":"Kuphal, Schuppe and Roberts","company_identifier":"649-23-9301","street1":"943 Havey Terrace","street2":"Sao Hai","street4":"18160","phone":"393-179-3546","userid":6},
+	{"id":5,"company_name":"Reynolds-Dach","company_identifier":"138-52-5896","street1":"422 Coolidge Park","street2":"Aţ Ţawāḩīn","phone":"238-677-0488","userid":1},
+	{"id":6,"company_name":"Beahan-Lemke","company_identifier":"329-39-3626","street1":"90 Florence Lane","street2":"As Sūsah","phone":"147-328-2728","userid":15},
+	{"id":7,"company_name":"Lemke Group","company_identifier":"771-28-2677","street1":"3467 Brown Hill","street2":"Mangqu","phone":"234-298-2401","userid":3},
+	{"id":8,"company_name":"Crooks LLC","company_identifier":"199-49-8167","street1":"232 Russell Alley","street2":"Cervantes","street4":"2718","phone":"433-534-2823","userid":1},
+	{"id":9,"company_name":"Kuhic, Schmidt and MacGyver","company_identifier":"603-03-0766","street1":"73441 Monument Circle","street2":"Tuojiang","phone":"883-319-9643","userid":18},
+	{"id":10,"company_name":"Jenkins-Bogan","company_identifier":"157-78-8807","street1":"52228 Manufacturers Pass","street2":"Ainaro","phone":"792-724-5984","userid":24},
+	{"id":11,"company_name":"Wintheiser Inc","company_identifier":"732-08-5449","street1":"9208 Crowley Drive","street2":"Conchucos","phone":"670-555-4145","userid":19},
+	{"id":12,"company_name":"Herman and Sons","company_identifier":"738-80-9984","street1":"1303 Linden Trail","street2":"Krajan Pangkah Kulon","phone":"482-632-0885","userid":30},
+	{"id":13,"company_name":"Kerluke, Marvin and Ernser","company_identifier":"112-70-0970","street1":"9 New Castle Point","street2":"Ban Chalong","street4":"66110","phone":"295-608-7813","userid":5},
+	{"id":14,"company_name":"Gerlach-Feil","company_identifier":"880-54-2409","street1":"7722 Doe Crossing Center","street2":"Puerto Bello","street4":"4300","phone":"964-913-9551","userid":21},
+	{"id":15,"company_name":"Watsica-Mitchell","company_identifier":"255-92-1024","street1":"9 Oriole Point","street2":"Guinobatan","street4":"4503","phone":"671-186-7003","userid":9},
+	{"id":16,"company_name":"Johnson, Kub and Beahan","company_identifier":"461-48-3096","street1":"3 Shoshone Terrace","street2":"Guruafin","phone":"803-401-3277","userid":26},
+	{"id":17,"company_name":"Ledner, Bayer and Wintheiser","company_identifier":"428-56-5597","street1":"50575 Blackbird Center","street2":"Yefimovskiy","street4":"187625","phone":"665-503-4103","userid":6},
+	{"id":18,"company_name":"Dickens, Schneider and Feest","company_identifier":"432-85-8963","street1":"05902 5th Park","street2":"Wau","phone":"425-367-2825","userid":25},
+	{"id":19,"company_name":"Wolf Group","company_identifier":"331-59-4982","street1":"1712 Pond Center","street2":"Peredovaya","street4":"352275","phone":"200-226-6495","userid":18},
+	{"id":20,"company_name":"Hauck-Predovic","company_identifier":"525-47-6388","street1":"02494 Lakewood Parkway","street2":"Cangchang","phone":"783-929-4644","userid":16},
+	{"id":21,"company_name":"Franecki LLC","company_identifier":"726-66-7094","street1":"2654 Claremont Pass","street2":"Yixin","phone":"498-647-7990","userid":9},
+	{"id":22,"company_name":"Kozey Group","company_identifier":"669-41-2424","street1":"6 Boyd Avenue","street2":"Huangsha","phone":"245-836-0061","userid":3},
+	{"id":23,"company_name":"Stehr and Sons","company_identifier":"341-78-1191","street1":"9150 Eliot Pass","street2":"Ganxi","phone":"411-280-6760","userid":21},
+	{"id":24,"company_name":"Monahan, Fahey and Feil","company_identifier":"612-96-4312","street1":"0 Karstens Lane","street2":"Annecy","street3":"Rhône-Alpes","street4":"74982 CEDEX 9","phone":"207-250-3544","userid":28},
+	{"id":25,"company_name":"Schmitt-Hagenes","company_identifier":"103-06-7247","street1":"88533 Trailsway Circle","street2":"Primero de Enero","phone":"346-484-8708","userid":22},
+	{"id":26,"company_name":"Donnelly, Will and Hermann","company_identifier":"802-92-9073","street1":"0382 Sullivan Hill","street2":"Jingyang","phone":"286-689-2544","userid":29},
+	{"id":27,"company_name":"Friesen, Green and Schroeder","company_identifier":"445-68-0629","street1":"9 Banding Avenue","street2":"Uluale","phone":"961-116-0017","userid":2},
+	{"id":28,"company_name":"Dach-Schmeler","company_identifier":"332-32-4598","street1":"84253 Hallows Court","street2":"Aipe","street4":"411008","phone":"858-214-5178","userid":21},
+	{"id":29,"company_name":"Stroman-Weimann","company_identifier":"856-09-6602","street1":"86640 Petterle Lane","street2":"Rawson","street4":"9103","phone":"839-162-3059","userid":2},
+	{"id":30,"company_name":"Collins-Hilll","company_identifier":"500-31-1768","street1":"936 Colorado Hill","street2":"Standerton","street4":"2436","phone":"198-240-8725","userid":26}
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "customers": [
+	{"id":1,"company_id":23,"first_name":"Lyn","last_name":"Kermannes","street1":"724 Nova Crossing","street2":"Kuznetsovs’k","phone":"730-942-1010"},
+	{"id":2,"company_id":28,"first_name":"Kelcie","last_name":"Pitcaithly","street1":"40 Kennedy Pass","street2":"Pakemitan Dua","phone":"421-822-2527"},
+	{"id":3,"company_id":28,"first_name":"Romonda","last_name":"Libreros","street1":"7 Loomis Trail","street2":"Huaicheng","phone":"283-584-6653"},
+	{"id":4,"company_id":17,"first_name":"Danika","last_name":"Gail","street1":"597 Loeprich Pass","street2":"Armação","street4":"59990-000","phone":"554-580-6734"},
+	{"id":5,"company_id":13,"first_name":"Cathy","last_name":"Werrett","street1":"365 Spohn Crossing","street2":"Alderetes","street4":"4178","phone":"612-852-0427"},
+	{"id":6,"company_id":8,"first_name":"Marcel","last_name":"Cave","street1":"1 Michigan Hill","street2":"Maszewo Duże","street4":"09-412","phone":"899-839-9803"},
+	{"id":7,"company_id":8,"first_name":"Allyn","last_name":"Shellshear","street1":"85611 Towne Junction","street2":"Uhryniv","phone":"680-552-8621"},
+	{"id":8,"company_id":26,"first_name":"Emlen","last_name":"Disdel","street1":"9 Dunning Point","street2":"Don Matías","street4":"051858","phone":"155-847-9398"},
+	{"id":9,"company_id":11,"first_name":"Gabriell","last_name":"Hayer","street1":"28 Stoughton Junction","street2":"Watublapi","phone":"456-966-6486"},
+	{"id":10,"company_id":2,"first_name":"Delcine","last_name":"Borres","street1":"53 Di Loreto Terrace","street2":"Lyudinovo","street4":"249406","phone":"949-232-4261"},
+	{"id":11,"company_id":4,"first_name":"Devin","last_name":"Visick","street1":"17 Norway Maple Park","street2":"Huyang","phone":"949-996-7141"},
+	{"id":12,"company_id":19,"first_name":"Audra","last_name":"Hrihorovich","street1":"35 Melvin Lane","street2":"Ash Shajarah","phone":"855-904-4800"},
+	{"id":13,"company_id":19,"first_name":"Ossie","last_name":"Annatt","street1":"51527 Myrtle Center","street2":"Saint-Herblain","street3":"Pays de la Loire","street4":"44815 CEDEX","phone":"122-453-2806"},
+	{"id":14,"company_id":9,"first_name":"Osbert","last_name":"Beert","street1":"3 Sunbrook Parkway","street2":"Dongshan","phone":"383-923-2597"},
+	{"id":15,"company_id":27,"first_name":"Locke","last_name":"Lavallie","street1":"3263 Merry Hill","street2":"Vladikavkaz","street4":"362049","phone":"853-476-3564"},
+	{"id":16,"company_id":10,"first_name":"Rosalind","last_name":"Verlinde","street1":"854 Thackeray Park","street2":"Sandachō","street4":"673-1236","phone":"468-572-1631"},
+	{"id":17,"company_id":15,"first_name":"Rubetta","last_name":"Riehm","street1":"19 Evergreen Street","street2":"Aş Şaff","phone":"245-627-1535"},
+	{"id":18,"company_id":22,"first_name":"Bruce","last_name":"Smethurst","street1":"9781 Forest Dale Terrace","street2":"Pavlodar","phone":"963-221-4920"},
+	{"id":19,"company_id":9,"first_name":"Kaleb","last_name":"Fenimore","street1":"8440 Westerfield Alley","street2":"Mashi","phone":"918-655-6798"},
+	{"id":20,"company_id":25,"first_name":"Osmond","last_name":"Sizey","street1":"1 Debra Crossing","street2":"Jiakexi","phone":"405-858-4476"},
+	{"id":21,"company_id":1,"first_name":"Ezechiel","last_name":"Longbottom","street1":"4928 Hanson Way","street2":"Caikouji","phone":"702-749-6990"},
+	{"id":22,"company_id":9,"first_name":"Umberto","last_name":"Bernardeau","street1":"759 Corben Plaza","street2":"Vale Flores","street3":"Lisboa","street4":"2710-680","phone":"768-935-7341"},
+	{"id":23,"company_id":17,"first_name":"Armand","last_name":"Peter","street1":"9 Chinook Circle","street2":"Créteil","street3":"Île-de-France","street4":"94952 CEDEX 9","phone":"537-943-9377"},
+	{"id":24,"company_id":8,"first_name":"Renado","last_name":"Donnett","street1":"07 Hanover Circle","street2":"Shuangyang","phone":"298-224-0732"},
+	{"id":25,"company_id":18,"first_name":"Archer","last_name":"Boig","street1":"9 Farmco Center","street2":"Tzaneen","street4":"0876","phone":"468-609-1510"},
+	{"id":26,"company_id":19,"first_name":"Binny","last_name":"Lathwell","street1":"236 Fremont Drive","street2":"Gorelki","street4":"301536","phone":"504-740-9090"},
+	{"id":27,"company_id":16,"first_name":"Ilse","last_name":"Scarisbrick","street1":"3 Bunker Hill Park","street2":"Hekou","phone":"536-669-7230"},
+	{"id":28,"company_id":21,"first_name":"Ferne","last_name":"Mogford","street1":"1 Armistice Pass","street2":"Debe","phone":"993-956-3013"},
+	{"id":29,"company_id":16,"first_name":"Sandie","last_name":"Chipp","street1":"8 Mesta Plaza","street2":"Muarasiau","phone":"436-292-7945"},
+	{"id":30,"company_id":26,"first_name":"Mateo","last_name":"Heintz","street1":"32 Johnson Parkway","street2":"Samur","phone":"110-759-2675"}
+  ]
 }
